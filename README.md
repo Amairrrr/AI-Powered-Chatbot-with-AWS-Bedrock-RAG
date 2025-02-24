@@ -10,20 +10,20 @@ This project demonstrates how to build a personalized AI chatbot that can answer
 - **Amazon S3** – Storage for personal documents
 
 ## 📌 Key Features
-✅ **Retrieval-Augmented Generation (RAG):** AI chatbot trained on custom documents**
-✅ **Amazon Bedrock Integration:** Uses **Titan Text Embeddings v2 & Llama 3** for response generation**
-✅ **Amazon OpenSearch Serverless:** Fast and scalable vector-based search**
-✅ **Amazon S3 Storage:** Secure document storage and retrieval**
-✅ **Knowledge Base (KBase) Setup:** Stores and organizes chatbot data efficiently**
-✅ **Customizable Chatbot Responses:** Fine-tune responses by adjusting source chunks and prompts**
+✅  **Retrieval-Augmented Generation (RAG):** AI chatbot trained on custom documents**
+✅  **Amazon Bedrock Integration:** Uses **Titan Text Embeddings v2 & Llama 3** for response generation**
+✅  **Amazon OpenSearch Serverless:** Fast and scalable vector-based search**
+✅  **Amazon S3 Storage:** Secure document storage and retrieval**
+✅  **Knowledge Base (KBase) Setup:** Stores and organizes chatbot data efficiently**
+✅  **Customizable Chatbot Responses:** Fine-tune responses by adjusting source chunks and prompts**
 
 ## 🏗 Project Architecture  
-1️⃣ Store documents in Amazon S3**
-2️⃣ Create a Knowledge Base in Amazon Bedrock**  
-3️⃣ Use OpenSearch Serverless for vector search** 
-4️⃣ Sync data from S3 to Knowledge Base**
-5️⃣ Integrate AI models for response generation**
-6️⃣ Deploy and test the chatbot**
+1️⃣  Store documents in Amazon S3
+2️⃣  Create a Knowledge Base in Amazon Bedrock 
+3️⃣  Use OpenSearch Serverless for vector search 
+4️⃣  Sync data from S3 to Knowledge Base
+5️⃣  Integrate AI models for response generation
+6️⃣  Deploy and test the chatbot
 
 
 ## 🔧 Tech Stack  
