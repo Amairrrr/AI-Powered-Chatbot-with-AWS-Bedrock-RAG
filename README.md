@@ -25,6 +25,7 @@ This project demonstrates how to build a personalized AI chatbot that can answer
 5️⃣ Integrate AI models for response generation
 6️⃣ Deploy and test the chatbot
 
+
 ## 🔧 Tech Stack  
 - **AWS Bedrock** – AI Model Hosting & Knowledge Base  
 - **Amazon OpenSearch Serverless** – Vector Search & Querying  
