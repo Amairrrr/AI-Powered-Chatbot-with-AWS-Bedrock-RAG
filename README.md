@@ -18,12 +18,12 @@ This project demonstrates how to build a personalized AI chatbot that can answer
 ✅  **Customizable Chatbot Responses:** Fine-tune responses by adjusting source chunks and prompts**
 
 ## 🏗 Project Architecture  
-1️⃣  Store documents in Amazon S3
-2️⃣  Create a Knowledge Base in Amazon Bedrock 
-3️⃣  Use OpenSearch Serverless for vector search 
-4️⃣  Sync data from S3 to Knowledge Base
-5️⃣  Integrate AI models for response generation
-6️⃣  Deploy and test the chatbot
+1️⃣  **Store documents in Amazon S3**
+2️⃣  **Create a Knowledge Base in Amazon Bedrock**
+3️⃣  **Use OpenSearch Serverless for vector search** 
+4️⃣  **Sync data from S3 to Knowledge Base**
+5️⃣  **Integrate AI models for response generation**
+6️⃣  **Deploy and test the chatbot**
 
 
 ## 🔧 Tech Stack  
