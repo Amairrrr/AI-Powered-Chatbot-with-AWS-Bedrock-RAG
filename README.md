@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 This project demonstrates how to build a personalized AI chatbot that can answer questions based on custom documents. By leveraging **Amazon Bedrock, OpenSearch Serverless, and Amazon S3**, this chatbot efficiently retrieves and processes data using **RAG (Retrieval-Augmented Generation)** to generate accurate, context-aware responses.
-![image](https://github.com/user-attachments/assets/86799a7c-5a14-4876-9dcb-42a02a7e3152)
+![Architecture](https://github.com/Amairrrr/AI-Powered-Chatbot-with-AWS-Bedrock-RAG/blob/9efa5039be9f6bdf3fc60e3bdd19bd520672a56b/images/Architecture.png)
 
 ## 🏗️ Services Used
 - **Amazon Bedrock** – AI model management and inference
